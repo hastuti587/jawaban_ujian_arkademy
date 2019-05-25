@@ -1,0 +1,22 @@
+{
+    "nama":"Maharani", 
+    "address": 24,
+    "hobbies": [
+        "crafting",
+        "traveling",
+        "eating",
+        "reading"
+
+    ],
+    "is_married": true,
+    "schools":{
+        "highSchool":"SMAN 1 Pati",
+        "University":"Universitas Brawijaya"
+    },
+    "skills":[
+        {"name":"Maharani", "score":80}     
+    ]
+
+}
+
+
